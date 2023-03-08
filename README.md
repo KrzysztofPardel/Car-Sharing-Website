@@ -1,2 +1,2 @@
 # Car-Sharing-Website
-Zadanie tworzone 4 dnia zajęć
+Pure desktop site about a car-sharing company.
